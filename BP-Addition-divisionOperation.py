@@ -16,3 +16,7 @@ a == float(input("Enter first number: ")), b == float(input("Enter second number
 
 a,b  = float(input("enter first number: ")), float(input("enter second number: ")); print("addition is: ", a+b, "division is: ", a/b)
 #That's how you can write this code in one line. 
+
+#Write a Python program to find the area of a triangle.
+#first- variable formation ---- > give formula condition ----> print
+height,base = 20, 5; area= 0.5*height*base; print("the area of the triangle is: ", area)
